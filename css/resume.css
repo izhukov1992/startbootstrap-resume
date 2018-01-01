@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
- * Copyright 2013-2017 Start Bootstrap
+ * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 body {
@@ -48,6 +48,16 @@ h2 {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
     color: #507c80; }
+
+.upwork {
+  height: 50%;
+  width: 50%;
+  left: 50%;
+  top: 50%;
+  margin-top: -12px;
+  margin-left: -14px; }
+  .upwork path {
+    fill: #fff; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
